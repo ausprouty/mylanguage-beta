@@ -1,0 +1,24 @@
+// Color Palette (Based on Icon Colors)
+$primary: #3e81ef; // Dominant blue
+$secondary: #fdbf02; // Dominant gold
+$accent: #fc4017; // Dominant red
+$minor1: #fd6021; // Minor orange
+$minor2: #7e436c; // Minor purple
+
+// Background colors
+$dark: #2e2e2e; // Dark background for contrast
+$dark-page: #1c1c1c; // Slightly darker for page backgrounds
+
+// Functional colors
+$positive: #28a745; // Green, symbolizing growth and harmony
+$negative: $accent; // Bright red for warnings or errors
+$info: $primary; // Blue for informational highlights
+$warning: $secondary; // Gold for caution
+
+// Additional Highlights
+$success-highlight: $accent; // Red for success messages
+$gold-highlight: $secondary; // Gold accents for special elements
+
+// Optional complementary colors
+$neutral: #f0f0f0; // Soft white-gray for neutral backgrounds
+$shadow: #7f8c8d; // Subtle gray for shadows

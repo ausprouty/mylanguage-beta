@@ -1,0 +1,217 @@
+
+/* General Styles */
+body {
+  background-color: $neutral;
+  background-color:$dark-page;
+  color: $dark; // White text for readability
+}
+
+/* Bible Reference and Text */
+.bible-reference {
+  font-weight: bold;
+  color: $accent;
+  font-size: 1.2em;
+}
+
+/* Select Elements */
+.select {
+  background-color: $neutral;
+  color: $accent;
+  border: 1px solid $secondary;
+}
+
+/* Margins and Gutter Styles */
+.q-gutter-md,
+.q-mr-md,
+.q-ml-md {
+  margin-top: 10px;
+  background-color: $warning;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.q-gutter-y-md,
+.q-gutter-md {
+  margin-top: 0px;
+}
+
+.q-gutter-y-md > *,
+.q-gutter-md > * {
+  margin-top: 0px;
+}
+
+/* DBS Container */
+div.dbs {
+  background-color: $neutral;
+  max-width: 800px;
+  margin: auto;
+  padding: 10px;
+  border: 2px solid $accent;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  max-width: 800px;
+  border: 1px solid $warning;
+}
+
+td {
+  width: 50%;
+  vertical-align: top;
+  padding: 10px;
+  border-bottom: 1px solid $secondary;
+}
+
+/* List Items */
+li {
+  padding-top: 10px;
+}
+
+/* Titles and Headers */
+h1.dbs,
+h2.dbs,
+h3.dbs,
+h4.dbs {
+  font-family: 'Arial', sans-serif;
+  color: $accent;
+}
+
+h1.dbs {
+  font-size: 3rem;
+  line-height: 3rem;
+}
+
+h2.dbs {
+  font-weight: bold;
+}
+
+h3.dbs {
+  margin-block-end: 0.3em;
+  font-size: 1.17em;
+}
+
+h4.dbs {
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  font-size: 1em;
+}
+
+/* Special Table Styles */
+table.dbs {
+  border-collapse: collapse;
+  border: none;
+}
+
+td.dbs,
+th.dbs {
+  border: none;
+}
+
+td.rtl {
+  direction: rtl;
+}
+
+.ltr.dbs.link {
+  text-align: center;
+}
+
+/* Footer */
+p.copyright {
+  text-align: center;
+  color: $shadow;
+}
+
+/* Bible Container */
+.bible-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  background-color: $gold-highlight;
+  border-radius: 5px;
+}
+
+div.dbs {
+  background-color: $gold-highlight;
+}
+
+li.dbs {
+  font-size: 1rem;
+}
+
+div.bible-text {
+  color: $minor2;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+.bible-text:first-child {
+  margin-right: 20px;
+}
+
+/* Hover Effects */
+.link:hover {
+  color: $warning;
+  text-decoration: underline;
+}
+
+/* Clickable Images */
+td[clickable] {
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+td[clickable] img.menu_picture:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+td[clickable]::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  transition: width 0.3s ease, height 0.3s ease, opacity 0.3s ease;
+  opacity: 0;
+}
+
+td[clickable]:active::after {
+  width: 150px;
+  height: 150px;
+  opacity: 1;
+  transition: 0s;
+}
+
+/* Notes */
+.notes {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 16px;
+  padding: 8px;
+  font-size: 14px;
+}
+
+// Readmore Button
+.readmore-button {
+  display: inline-block;
+  padding: 8px 15px;
+  background-color: $accent;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+.readmore-button:hover {
+  background-color: darken($accent, 10%);
+}
