@@ -18,7 +18,7 @@
             "2": "Hevalên xwe kom bikin û dest bi keşfê bikin! Li ser wêneyên jêrîn bikirtînin da ku rêwîtiya xwe dest pê bikin - ne tenê şehrezayiyê, lê têkiliyek bi Xwedê û civata giyanî re ku Ew we vedixwîne kifş bikin."
         }
     },
-    "dbs": {
+    "dbs-beta": {
         "title": "Vedîtina Civata Ruhanî",
         "para": {
             "1": "Vedîtina Civata Ruhanî we di nav dîrokê de rêwîtiyek digire, lêkolîn dike ka mirov çawa ji destpêkê ve bi Xwedê re têkildar bûne - bi dijwarî, pirs û demên ku jiyanê diguherînin. Heke hûn li ser bawerî, armanc, û wateya ku tê çi wateyê meraq dikin, ev rêz ji bo destpêkirinê cîhek girîng e.",
@@ -26,7 +26,7 @@
             "3": "Bi tikandina li ser cîhana cîhanê ya li jor zimanê xweya bijare hilbijêrin."
         }
     },
-    "life": {
+    "life-beta": {
         "title": "Pirsgirêkên Jiyanê",
         "para": {
             "1": "Pirsgirêkên Jiyanê hînkirinên pratîkî yên Jesussa û şagirtên wî yên pêşîn - şehrezayiya ku bi sedsalan jiyan guherandiye vedikole. Gelekan bi vexwendina Îsa vegerandin ku alîkariya wan bike ku van rastiyan bijîn. Dibe ku ev ji bo we jî rast be?",
@@ -42,7 +42,7 @@
             "2": "Ev vîdyo bi gelek zimanan heye. Ji bo guherandina ziman li ser cîhana cîhanê ya li jor bikirtînin."
         }
     },
-    "lead": {
+    "lead-beta": {
         "title": "Keşifkirina Rêbertiyê",
         "para": {
             "1": "Vedîtina Rêbertiyê prensîbên ku Jesussa hînî rêberên xwe kir vedikole - şehrezayiya ku ji bo nifşan rêberiya dilpak çêkir. Gelekan bi îtbariya xwe li ser Îsa ku alîkariya wan bike ku bi mebest û durustî rêve bibin, veguhertin dîtin. Ma ev dikare serokatiya we jî çêbike?",

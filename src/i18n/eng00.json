@@ -18,7 +18,7 @@
             "2": "Gather your friends and start exploring! Click on the images below to begin your journey — discovering not just wisdom, but a relationship with God and the spiritual community He invites you into."
         }
     },
-    "dbs": {
+    "dbs-beta": {
         "title": "Discovering Spiritual Community",
         "para": {
             "1": "Discovering Spiritual Community takes you on a journey through history, exploring how people have connected with God from the very beginning—through challenges, questions, and life-changing moments. If you're curious about faith, purpose, and what it means to belong, this series is a great place to start.",
@@ -26,7 +26,7 @@
             "3": "Select your favourite language by clicking on the world globe above."
         }
     },
-    "life": {
+    "life-beta": {
         "title": "Life Issues",
         "para": {
             "1": "Life Issues explores the practical teachings of Jesus and his early followers — wisdom that has changed lives for centuries. Many have experienced transformation by inviting Jesus to help them live out these truths. Could this be true for you too?",
@@ -42,7 +42,7 @@
             "2": "This video is available in many languages. To change the language click the world globe above."
         }
     },
-    "lead": {
+    "lead-beta": {
         "title": "Discovering Leadership",
         "para": {
             "1": "Discovering Leadership explores the principles Jesus taught his leaders — wisdom that has shaped servant-hearted leadership for generations. Many have experienced transformation by relying on Jesus to help them lead with purpose and integrity. Could this shape your leadership too?",

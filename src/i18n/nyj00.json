@@ -18,7 +18,7 @@
             "2": "Sonkhanitsani anzanu ndikuyamba kufufuza! Dinani pazithunzi zomwe zili pansipa kuti muyambe ulendo wanu - kupeza osati nzeru zokha, komanso ubale ndi Mulungu ndi gulu lauzimu lomwe akukuitaniranimo."
         }
     },
-    "dbs": {
+    "dbs-beta": {
         "title": "Kupeza Gulu Lauzimu",
         "para": {
             "1": "Kuzindikira Gulu Lauzimu kumakutengerani paulendo wodutsa m'mbiri, ndikuwunika momwe anthu adalumikizirana ndi Mulungu kuyambira pachiyambi - kudzera mu zovuta, mafunso, ndi nthawi zosintha moyo. Ngati mukufuna kudziwa za chikhulupiriro, cholinga, ndi tanthauzo la kukhala nawo, mndandanda uwu ndi malo abwino kuyamba.",
@@ -26,7 +26,7 @@
             "3": "Sankhani chilankhulo chomwe mumakonda podina padziko lonse lapansi pamwambapa."
         }
     },
-    "life": {
+    "life-beta": {
         "title": "Nkhani Za Moyo",
         "para": {
             "1": "Life Issues imafotokoza ziphunzitso zothandiza za Yesu ndi otsatira ake oyambirira—nzeru zomwe zasintha miyoyo kwa zaka mazana ambiri. Anthu ambiri asintha chifukwa chopempha Yesu kuti awathandize kutsatira mfundo za choonadi zimenezi. Kodi zimenezi zingakhale zoona kwa inunso?",
@@ -42,7 +42,7 @@
             "2": "Vidiyoyi ikupezeka m’zinenero zambiri. Kuti musinthe chilankhulo dinani dziko lapansi pamwambapa."
         }
     },
-    "lead": {
+    "lead-beta": {
         "title": "Kupeza Utsogoleri",
         "para": {
             "1": "Kuzindikira Utsogoleri kumasanthula mfundo zomwe Yesu adaphunzitsa atsogoleri ake - nzeru zomwe zaumba utsogoleri wamtima wantchito kwa mibadwomibadwo. Ambiri asintha chifukwa chodalira Yesu kuti awathandize kutsogolera ndi cholinga komanso moona mtima. Kodi izi zingapangitsenso utsogoleri wanu?",

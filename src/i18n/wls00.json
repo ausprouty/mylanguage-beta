@@ -18,7 +18,7 @@
             "2": "Casglwch eich ffrindiau a dechreuwch archwilio! Cliciwch ar y delweddau isod i gychwyn eich taith — gan ddarganfod nid yn unig doethineb, ond perthynas â Duw a’r gymuned ysbrydol y mae’n eich gwahodd iddi."
         }
     },
-    "dbs": {
+    "dbs-beta": {
         "title": "Darganfod Cymuned Ysbrydol",
         "para": {
             "1": "Mae Darganfod Cymuned Ysbrydol yn mynd â chi ar daith trwy hanes, gan archwilio sut mae pobl wedi cysylltu â Duw o'r cychwyn cyntaf - trwy heriau, cwestiynau, ac eiliadau sy'n newid bywyd. Os ydych chi'n chwilfrydig am ffydd, pwrpas, a beth mae'n ei olygu i berthyn, mae'r gyfres hon yn lle gwych i ddechrau.",
@@ -26,7 +26,7 @@
             "3": "Dewiswch eich hoff iaith trwy glicio ar y glôb byd uchod."
         }
     },
-    "life": {
+    "life-beta": {
         "title": "Materion Bywyd",
         "para": {
             "1": "Mae Life Issues yn archwilio dysgeidiaeth ymarferol Iesu a’i ddilynwyr cynnar—doethineb sydd wedi newid bywydau ers canrifoedd. Mae llawer wedi profi trawsnewid trwy wahodd Iesu i'w helpu i fyw'r gwirioneddau hyn. A allai hyn fod yn wir i chi hefyd?",
@@ -42,7 +42,7 @@
             "2": "Mae'r fideo hwn ar gael mewn llawer o ieithoedd. I newid yr iaith cliciwch ar y glôb byd uchod."
         }
     },
-    "lead": {
+    "lead-beta": {
         "title": "Darganfod Arweinyddiaeth",
         "para": {
             "1": "Mae Darganfod Arweinyddiaeth yn archwilio’r egwyddorion a ddysgodd Iesu i’w arweinwyr—doethineb sydd wedi llywio arweiniad gwas-galon ers cenedlaethau. Mae llawer wedi profi trawsnewid trwy ddibynnu ar Iesu i'w helpu i arwain gyda phwrpas ac uniondeb. A allai hyn siapio eich arweinyddiaeth hefyd?",

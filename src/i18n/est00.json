@@ -18,7 +18,7 @@
             "2": "Koguge oma sõbrad ja alustage avastamist! Oma teekonna alustamiseks klõpsake allolevatel piltidel – avastage mitte ainult tarkust, vaid ka suhet Jumalaga ja vaimse kogukonnaga, kuhu Ta teid kutsub."
         }
     },
-    "dbs": {
+    "dbs-beta": {
         "title": "Vaimse kogukonna avastamine",
         "para": {
             "1": "Vaimse kogukonna avastamine viib teid rännakule läbi ajaloo, uurides, kuidas inimesed on algusest peale Jumalaga ühenduses olnud – läbi väljakutsete, küsimuste ja elumuutvate hetkede. Kui olete huvitatud usust, eesmärgist ja sellest, mida tähendab kuulumine, on see sari suurepärane koht alustamiseks.",
@@ -26,7 +26,7 @@
             "3": "Valige oma lemmikkeel, klõpsates ülaltoodud maailma maakeral."
         }
     },
-    "life": {
+    "life-beta": {
         "title": "Eluprobleemid",
         "para": {
             "1": "Life Issues uurib Jeesuse ja tema esimeste järgijate praktilisi õpetusi – tarkust, mis on sajandeid elusid muutnud. Paljud on kogenud muutumist, kutsudes Jeesust aitama neid tõdesid järgida. Kas see võib ka teie puhul tõsi olla?",
@@ -42,7 +42,7 @@
             "2": "See video on saadaval paljudes keeltes. Keele muutmiseks klõpsake ülalpool maailma maakera."
         }
     },
-    "lead": {
+    "lead-beta": {
         "title": "Juhtimise avastamine",
         "para": {
             "1": "Juhtimise avastamine uurib põhimõtteid, mida Jeesus oma juhtidele õpetas – tarkust, mis on põlvkondade jooksul kujundanud teenija südamega juhtimist. Paljud on kogenud muutumist, tuginedes Jeesusele, kes aitab neil sihikindlalt ja ausalt juhtida. Kas see võib kujundada ka teie juhtimist?",

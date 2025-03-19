@@ -18,7 +18,7 @@
             "2": "Reuneix els teus amics i comença a explorar! Feu clic a les imatges següents per començar el vostre viatge, descobrint no només la saviesa, sinó una relació amb Déu i la comunitat espiritual a la qual us convida."
         }
     },
-    "dbs": {
+    "dbs-beta": {
         "title": "Descobrint la comunitat espiritual",
         "para": {
             "1": "Discovering Spiritual Community us porta a un viatge per la història, explorant com la gent s'ha connectat amb Déu des del principi, a través de reptes, preguntes i moments que canvien la vida. Si teniu curiositat sobre la fe, el propòsit i el que significa pertànyer, aquesta sèrie és un bon lloc per començar.",
@@ -26,7 +26,7 @@
             "3": "Seleccioneu el vostre idioma preferit fent clic al globus de dalt."
         }
     },
-    "life": {
+    "life-beta": {
         "title": "Problemes de vida",
         "para": {
             "1": "Life Issues explora els ensenyaments pràctics de Jesús i els seus primers seguidors, una saviesa que ha canviat vides durant segles. Molts han experimentat la transformació convidant Jesús a ajudar-los a viure aquestes veritats. Això també podria ser cert per a tu?",
@@ -42,7 +42,7 @@
             "2": "Aquest vídeo està disponible en molts idiomes. Per canviar l'idioma, feu clic al globus del món de dalt."
         }
     },
-    "lead": {
+    "lead-beta": {
         "title": "Descobrint el lideratge",
         "para": {
             "1": "Discovering Leadership explora els principis que Jesús va ensenyar als seus líders: saviesa que ha donat forma al lideratge amb cor de servidor durant generacions. Molts han experimentat la transformació confiant en Jesús per ajudar-los a liderar amb propòsit i integritat. Això també podria donar forma al teu lideratge?",

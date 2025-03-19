@@ -18,7 +18,7 @@
             "2": "Huihuia o hoa ka timata ki te torotoro haere! Paatohia nga whakaahua i raro nei ki te timata i to haerenga - kaua e kitea te whakaaro nui, engari he hononga ki te Atua me te hapori wairua e tono ana ia ki a koe."
         }
     },
-    "dbs": {
+    "dbs-beta": {
         "title": "Te Tirohanga Hapori Wairua",
         "para": {
             "1": "Ko te Discovering Spiritual Community e kawe koe i roto i te haerenga i roto i te hitori, te tirotiro me pehea te hono o te tangata ki te Atua mai i te timatanga—na roto i nga wero, nga patai, me nga waa hurihuri o te ao. Mena kei te pirangi koe mo te whakapono, te kaupapa, me te tikanga o te noho, he waahi pai tenei raupapa hei timata.",
@@ -26,7 +26,7 @@
             "3": "Tīpakohia tō reo tino pai mā te pāwhiri i te ao o runga."
         }
     },
-    "life": {
+    "life-beta": {
         "title": "Nga Take Ora",
         "para": {
             "1": "Ko te Life Issues he tirotiro i nga whakaakoranga whaihua a Ihu me ana akonga o mua — te whakaaro nui i whakarereke i te oranga mo nga rau tau. E rave rahi tei ite i te tauiraa na roto i te aniraa ia Iesu ia tauturu ia ratou ia ora i teie mau parau mau. He pono ano tenei mo koe?",
@@ -42,7 +42,7 @@
             "2": "Kei te wātea tenei ataata i roto i nga reo maha. Hei huri i te reo pawhiria te ao o runga."
         }
     },
-    "lead": {
+    "lead-beta": {
         "title": "Te Whakakitenga i te Rangatiratanga",
         "para": {
             "1": "Ko te Discovering Leadership e torotoro ana i nga maataapono i whakaakona e Ihu ki ana kaiarahi - te whakaaro nui nana i hanga te kaiarahi ngakau pononga mo nga whakatipuranga. E rave rahi tei ite i te tauiraa na roto i te tiaturi ia Iesu no te tauturu ia ratou ia aratai ma te mana‘o e te hapa ore. Ka taea e tenei te hanga i to kaiarahi?",

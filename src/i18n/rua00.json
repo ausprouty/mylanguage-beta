@@ -18,7 +18,7 @@
             "2": "Kusanya inshuti zawe hanyuma utangire gushakisha! Kanda ku mashusho ari hepfo kugirango utangire urugendo rwawe - kuvumbura ubwenge gusa, ahubwo umenye isano n'Imana hamwe numuryango wumwuka araguhamagarira."
         }
     },
-    "dbs": {
+    "dbs-beta": {
         "title": "Kuvumbura Umuryango wumwuka",
         "para": {
             "1": "Kuvumbura Umuryango wibyumwuka bigutwara urugendo mumateka, ukareba uburyo abantu bahujwe nImana kuva mbere - binyuze mubibazo, ibibazo, nibihe bihindura ubuzima. Niba ufite amatsiko yo kwizera, intego, nicyo bisobanura kuba, uru rukurikirane ni ahantu heza ho gutangirira.",
@@ -26,7 +26,7 @@
             "3": "Hitamo ururimi ukunda ukanze kwisi yose hejuru."
         }
     },
-    "life": {
+    "life-beta": {
         "title": "Ibibazo by'ubuzima",
         "para": {
             "1": "Ibibazo byubuzima byerekana inyigisho zifatika za Yesu n'abayoboke be ba mbere - ubwenge bwahinduye ubuzima mu binyejana byinshi. Benshi bagize impinduka batumira Yesu ngo abafashe kubaho uku kuri. Ibi birashobora kukubera ukuri?",
@@ -42,7 +42,7 @@
             "2": "Iyi videwo iraboneka mu ndimi nyinshi. Guhindura ururimi kanda isi yisi hejuru."
         }
     },
-    "lead": {
+    "lead-beta": {
         "title": "Kuvumbura Ubuyobozi",
         "para": {
             "1": "Kuvumbura Ubuyobozi byerekana amahame Yesu yigishije abayobozi be - ubwenge bwahinduye ubuyobozi bwumutima wumugaragu ibisekuruza. Benshi bahuye nimpinduka bashingiye kuri Yesu kugirango abafashe kuyobora bafite intego nubunyangamugayo. Ibi birashobora guhindura ubuyobozi bwawe?",

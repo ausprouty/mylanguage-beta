@@ -1,8 +1,8 @@
 {
-  "name": "dbs2025",
+  "name": "Beta Group",
   "version": "0.0.1",
-  "description": "Discovering Spiritual Community",
-  "productName": "Discovering Spiritual Community",
+  "description": "Beta Group",
+  "productName": "Beta Group",
   "author": "ausprouty <bob.prouty@powertochange.org.au>",
   "private": true,
   "scripts": {

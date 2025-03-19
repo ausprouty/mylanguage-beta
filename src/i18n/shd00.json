@@ -18,7 +18,7 @@
             "2": "Unganidza shamwari dzako uye tanga kuongorora! Dzvanya pamifananidzo iri pazasi kuti utange rwendo rwako - kuwana kwete huchenjeri chete, asi hukama naMwari uye nenharaunda yemweya yaanokukoka kuti upinde."
         }
     },
-    "dbs": {
+    "dbs-beta": {
         "title": "Kuwana Nharaunda Yekunamata",
         "para": {
             "1": "Kuziva Nharaunda Yekunamata kunokutora parwendo kuburikidza nenhoroondo, uchiongorora kuti vanhu vakabatana sei naMwari kubva pakutanga-kuburikidza nematambudziko, mibvunzo, uye nguva dzinochinja hupenyu. Kana iwe uchida kuziva nezvekutenda, chinangwa, uye kuti zvinorevei kuva wevako, iyi nhevedzano inzvimbo yakanaka yekutanga.",
@@ -26,7 +26,7 @@
             "3": "Sarudza mutauro waunofarira nekudzvanya pasi rose pamusoro."
         }
     },
-    "life": {
+    "life-beta": {
         "title": "Nyaya Dzehupenyu",
         "para": {
             "1": "Nyaya dzeUpenyu dzinoongorora dzidziso dzinoshanda dzaJesu nevateveri vake vepakutanga - uchenjeri hwakachinja hupenyu kwemazana emakore. Vakawanda vakaona kuchinjwa nokukoka Jesu kuti avabatsire kurarama maererano nechokwadi ichi. Izvi zvingava zvechokwadi kwauriwo here?",
@@ -42,7 +42,7 @@
             "2": "Vhidhiyo iyi inowanikwa mumitauro yakawanda. Kuti uchinje mutauro tinya pasi rose pamusoro."
         }
     },
-    "lead": {
+    "lead-beta": {
         "title": "Kuwana Hutungamiri",
         "para": {
             "1": "Kuwana Hutungamiri kunoongorora misimboti yakadzidziswa naJesu vatungamiri vake - huchenjeri hwakaumba hutungamiri hwemoyo wemuranda kwezvizvarwa. Vazhinji vakawana shanduko nekuvimba naJesu kuti avabatsire kutungamira nechinangwa uye nekuvimbika. Izvi zvingaumba hutungamiri hwako zvakare here?",

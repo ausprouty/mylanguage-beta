@@ -18,7 +18,7 @@
             "2": "Mblidhni miqtë tuaj dhe filloni të eksploroni! Klikoni mbi imazhet më poshtë për të filluar udhëtimin tuaj - duke zbuluar jo vetëm mençurinë, por një marrëdhënie me Perëndinë dhe komunitetin shpirtëror në të cilin Ai ju fton."
         }
     },
-    "dbs": {
+    "dbs-beta": {
         "title": "Zbulimi i Komunitetit Shpirtëror",
         "para": {
             "1": "Zbulimi i Komunitetit Shpirtëror ju çon në një udhëtim nëpër histori, duke eksploruar se si njerëzit janë lidhur me Perëndinë që në fillim - përmes sfidave, pyetjeve dhe momenteve që ndryshojnë jetën. Nëse jeni kurioz për besimin, qëllimin dhe çfarë do të thotë të përkasësh, kjo seri është një vend i mrekullueshëm për të filluar.",
@@ -26,7 +26,7 @@
             "3": "Zgjidhni gjuhën tuaj të preferuar duke klikuar mbi globin botëror më lart."
         }
     },
-    "life": {
+    "life-beta": {
         "title": "Çështjet e Jetës",
         "para": {
             "1": "Life Issues eksploron mësimet praktike të Jezusit dhe ndjekësve të tij të hershëm - mençuri që ka ndryshuar jetë për shekuj. Shumë e kanë përjetuar transformimin duke e ftuar Jezusin që t'i ndihmojë t'i kuptojnë këto të vërteta. A mund të jetë kjo e vërtetë edhe për ju?",
@@ -42,7 +42,7 @@
             "2": "Kjo video është e disponueshme në shumë gjuhë. Për të ndryshuar gjuhën, klikoni globin botëror më lart."
         }
     },
-    "lead": {
+    "lead-beta": {
         "title": "Zbulimi i Lidershipit",
         "para": {
             "1": "Zbulimi i Udhëheqjes eksploron parimet që Jezusi u mësoi udhëheqësve të tij - urtësi që ka formësuar udhëheqjen me zemër shërbëtore për breza. Shumë prej tyre kanë përjetuar transformim duke u mbështetur te Jezusi për t'i ndihmuar ata të udhëheqin me qëllim dhe integritet. A mund të formojë kjo edhe lidershipin tuaj?",

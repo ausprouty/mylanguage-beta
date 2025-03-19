@@ -18,7 +18,7 @@
             "2": "Qokelela abahlobo bakho kwaye uqale ukuhlola! Cofa kule mifanekiso ingezantsi ukuze uqalise uhambo lwakho - ungafumani nje ubulumko, kodwa ubudlelwane noThixo kunye noluntu lwasemoyeni akumemela kulo."
         }
     },
-    "dbs": {
+    "dbs-beta": {
         "title": "Ukufumanisa uluntu loMoya",
         "para": {
             "1": "Ukufumana uLuntu loMoya kukuthatha uhambo ngembali, uphonononga indlela abantu abanxibelelene ngayo noThixo kwasekuqaleni-ngemingeni, imibuzo, kunye namaxesha okutshintsha ubomi. Ukuba unomdla wokwazi ukholo, injongo, kunye nokuba kuthetha ukuthini ukuba ngowakho, olu ngcelele yindawo entle yokuqalisa.",
@@ -26,7 +26,7 @@
             "3": "Khetha ulwimi oluthandayo ngokucofa iglowubhu yehlabathi ngaphezulu."
         }
     },
-    "life": {
+    "life-beta": {
         "title": "Imiba yoBomi",
         "para": {
             "1": "Imiba yoBomi ihlolisisa iimfundiso eziluncedo zikaYesu nabalandeli bakhe bokuqala—ubulumko obuye batshintsha ubomi babantu kangangeenkulungwane. Abaninzi baye balubona utshintsho ngokumema uYesu ukuba abancede baphile ngokuvisisana nezi nyaniso. Ngaba oku kunokuba yinyaniso nakuwe?",
@@ -42,7 +42,7 @@
             "2": "Le vidiyo ifumaneka ngeelwimi ezininzi. Ukutshintsha ulwimi cofa iglowubhu yehlabathi ngaphezulu."
         }
     },
-    "lead": {
+    "lead-beta": {
         "title": "Ukufumanisa ubuNkokheli",
         "para": {
             "1": "Ukufumana ubuNkokeli kuhlola imigaqo uYesu awayifundisa iinkokeli zakhe—ubulumko obuye babumba ubunkokeli obunentliziyo yomkhonzi kwizizukulwana ngezizukulwana. Abaninzi baye balubona utshintsho ngokuthembela kuYesu ukuba abancede bakhokele ngenjongo nangengqibelelo. Ngaba oku kungabumba ubunkokeli bakho nawe?",
