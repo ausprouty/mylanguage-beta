@@ -18,7 +18,7 @@
             "2": "Reúna seus amigos e comece a explorar! Clique nas imagens abaixo para começar sua jornada – descobrindo não apenas sabedoria, mas um relacionamento com Deus e a comunidade espiritual para a qual Ele o convida."
         }
     },
-    "dbs-beta": {
+    "dbs": {
         "title": "Descobrindo a comunidade espiritual",
         "para": {
             "1": "Discovering Spiritual Community leva você a uma viagem pela história, explorando como as pessoas se conectaram com Deus desde o início – através de desafios, perguntas e momentos de mudança de vida. Se você está curioso sobre fé, propósito e o que significa pertencer, esta série é um ótimo lugar para começar.",
@@ -26,7 +26,7 @@
             "3": "Selecione seu idioma favorito clicando no globo acima."
         }
     },
-    "life-beta": {
+    "life": {
         "title": "Questões da vida",
         "para": {
             "1": "Life Issues explora os ensinamentos práticos de Jesus e seus primeiros seguidores – sabedoria que mudou vidas durante séculos. Muitos experimentaram a transformação ao convidar Jesus para ajudá-los a viver estas verdades. Isso poderia ser verdade para você também?",
@@ -42,7 +42,7 @@
             "2": "Este vídeo está disponível em vários idiomas. Para alterar o idioma, clique no globo mundial acima."
         }
     },
-    "lead-beta": {
+    "lead": {
         "title": "Descobrindo a Liderança",
         "para": {
             "1": "Descobrindo a Liderança explora os princípios que Jesus ensinou aos seus líderes – sabedoria que moldou a liderança com coração de servo por gerações. Muitos experimentaram a transformação ao confiar em Jesus para ajudá-los a liderar com propósito e integridade. Isso poderia moldar sua liderança também?",

@@ -18,7 +18,7 @@
             "2": "Bailigh do chairde agus tús a iniúchadh! Cliceáil ar na híomhánna thíos chun tús a chur le do thuras — ní hamháin eagna a fhionnadh, ach caidreamh le Dia agus leis an bpobal spioradálta a dtugann sé cuireadh duit teacht isteach ann."
         }
     },
-    "dbs-beta": {
+    "dbs": {
         "title": "Pobail Spioradálta a Fhionnadh",
         "para": {
             "1": "Tugann Fionnachtain Pobail Spioradálta tú ar thuras tríd an stair, ag fiosrú conas a bhí baint ag daoine le Dia ón tús – trí dhúshláin, trí cheisteanna agus trí chuimhneacháin a d’athraigh an saol. Má tá tú fiosrach faoi chreideamh, cuspóir, agus cad a chiallaíonn sé a bheith muintearas, is áit iontach é an tsraith seo le tosú.",
@@ -26,7 +26,7 @@
             "3": "Roghnaigh an teanga is fearr leat trí chliceáil ar an gcruinneog dhomhanda thuas."
         }
     },
-    "life-beta": {
+    "life": {
         "title": "Ceisteanna Saoil",
         "para": {
             "1": "Fiosraíonn Life Issues teagasc praiticiúla Íosa agus a lucht leanúna tosaigh — eagna a d’athraigh saolta leis na céadta bliain. Is iomaí duine a d’fhulaing claochlú trí chuireadh a thabhairt d’Íosa cuidiú leo na fírinní seo a mhaireachtáil. An bhféadfadh sé seo a bheith fíor duitse freisin?",
@@ -42,7 +42,7 @@
             "2": "Tá an físeán seo ar fáil i go leor teangacha. Chun an teanga a athrú cliceáil ar an gcloigeann domhanda thuas."
         }
     },
-    "lead-beta": {
+    "lead": {
         "title": "Ceannaireacht a Fhionnadh",
         "para": {
             "1": "Scrúdaíonn Fionnachtana na Ceannaireachta na prionsabail a mhúin Íosa dá cheannairí — an eagna a mhúnlaigh ceannaireacht seirbhíseach do na glúnta. Is iomaí duine a d’fhulaing claochlú trí bheith ag brath ar Íosa chun cabhrú leo ceannaireacht a dhéanamh le cuspóir agus le hionracas. An bhféadfadh sé seo do cheannaireacht a mhúnlú freisin?",

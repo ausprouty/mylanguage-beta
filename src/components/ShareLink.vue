@@ -8,12 +8,15 @@
     property="og:image"
     content="https://myfriends.network/sites/myfriends/images/standard/MyFriends-App-Facebook.jpg"
   />
-  <meta property="og:url" content="https://dbs.mylanguage.net.au" />
+  <meta property="og:url" content="https://beta.mylanguage.net.au" />
   <meta property="og:type" content="website" />
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@PtCAus" />
-  <meta name="twitter:title" content="Finding Spiritual Community" />
+  <meta
+    name="twitter:title"
+    content="Beta Group - Finding Spiritual Community"
+  />
   <meta
     name="twitter:description"
     content="Spiritual growth isn’t a solo journey — it happens in community. We all need wisdom we can trust and people who encourage us along the way. The lessons below will help you discover how God’s wisdom shapes lives, builds genuine relationships, and reveals His love and care for you."
@@ -25,7 +28,14 @@
 
   <div class="share-container">
     <q-btn class="shareLink" flat dense round @click="shareUrl" icon="share" />
-    <q-btn class="copyLink" flat dense round @click="copyToClipboard(getUrlLink.value)" icon="content_copy" />
+    <q-btn
+      class="copyLink"
+      flat
+      dense
+      round
+      @click="copyToClipboard(getUrlLink.value)"
+      icon="content_copy"
+    />
   </div>
 </template>
 
@@ -42,7 +52,10 @@ export default {
 
     const getUrlLink = computed(() => {
       const rootUrl = window.location.origin;
-      const pathAfterOrigin = window.location.pathname + window.location.search + window.location.hash;
+      const pathAfterOrigin =
+        window.location.pathname +
+        window.location.search +
+        window.location.hash;
 
       if (pathAfterOrigin.includes("video")) {
         return videoUrlLink(rootUrl);
@@ -58,18 +71,22 @@ export default {
       const languageCodeHL = languageStore.getLanguageCodeHLSelected;
       const lesson = languageStore.getLessonNumber;
 
-      return `${rootUrl}/jvideo/${lesson || ""}/${languageCodeHL || ""}/${languageCodeJF || ""}`;
+      return `${rootUrl}/jvideo/${lesson || ""}/${languageCodeHL || ""}/${
+        languageCodeJF || ""
+      }`;
     };
 
     const seriesUrlLink = (rootUrl) => {
       const languageCodeHL2 = languageStore.getLanguageCodeHLSelected;
       const series = languageStore.getCurrentStudy;
       const lesson2 = languageStore.getLessonNumber;
-      return `${rootUrl}/series/${series || ""}/${lesson2 || ""}/${languageCodeHL2 || ""}`;
+      return `${rootUrl}/series/${series || ""}/${lesson2 || ""}/${
+        languageCodeHL2 || ""
+      }`;
     };
 
     const shareUrl = async () => {
-      const subject = "Finding Spiritual Community";
+      const subject = "Beta Group - Finding Spiritual Community";
       const message = "Here is the link";
       const url = getUrlLink.value;
 
@@ -82,7 +99,10 @@ export default {
           $q.notify({ type: "negative", message: "Sharing failed!" });
         }
       } else {
-        $q.notify({ type: "warning", message: "Sharing not supported. Using fallback." });
+        $q.notify({
+          type: "warning",
+          message: "Sharing not supported. Using fallback.",
+        });
         shareFallback(url, subject, message);
       }
     };
@@ -94,9 +114,13 @@ export default {
       const shareOptions = {
         email: `mailto:?subject=${encodedSubject}&body=${encodedMessage}`,
         whatsapp: `https://api.whatsapp.com/send?text=${encodedMessage}`,
-        facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`,
+        facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+          url
+        )}`,
         twitter: `https://twitter.com/intent/tweet?text=${encodedMessage}`,
-        linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}`,
+        linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
+          url
+        )}`,
       };
 
       $q.dialog({

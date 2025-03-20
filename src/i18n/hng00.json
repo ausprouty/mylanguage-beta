@@ -18,7 +18,7 @@
             "2": "Gyűjtsd össze barátaidat és kezdd el felfedezni! Kattints az alábbi képekre az utazás megkezdéséhez – nem csupán a bölcsesség felfedezésére, hanem az Istennel való kapcsolatra és az általa meghívott spirituális közösségre."
         }
     },
-    "dbs-beta": {
+    "dbs": {
         "title": "A spirituális közösség felfedezése",
         "para": {
             "1": "A Spirituális Közösség felfedezése egy történelmi utazásra visz, feltárva, hogyan kapcsolódnak az emberek Istenhez a kezdetektől – kihívásokon, kérdéseken és életet megváltoztató pillanatokon keresztül. Ha kíváncsi a hitre, a célokra és arra, hogy mit jelent az összetartozás, ez a sorozat remek kiindulópont.",
@@ -26,7 +26,7 @@
             "3": "Válassza ki kedvenc nyelvét a fenti világgömbre kattintva."
         }
     },
-    "life-beta": {
+    "life": {
         "title": "Életproblémák",
         "para": {
             "1": "A Life Issues Jézus és korai követői gyakorlati tanításait tárja fel – ez a bölcsesség évszázadokon át megváltoztatta az életeket. Sokan megtapasztalták az átalakulást, amikor meghívták Jézust, hogy segítsen nekik megélni ezeket az igazságokat. Ez rád is igaz lehet?",
@@ -42,7 +42,7 @@
             "2": "Ez a videó számos nyelven elérhető. A nyelv megváltoztatásához kattintson a fenti világgömbre."
         }
     },
-    "lead-beta": {
+    "lead": {
         "title": "A vezetés felfedezése",
         "para": {
             "1": "A vezetés felfedezése azokat az alapelveket tárja fel, amelyeket Jézus tanított a vezetőinek – ez a bölcsesség generációk óta formálta a szolgaszívű vezetést. Sokan megtapasztalták az átalakulást azáltal, hogy Jézusra támaszkodtak, hogy segítsen nekik céltudatos és feddhetetlen vezetésben. Ez alakíthatja az Ön vezetői szerepét is?",

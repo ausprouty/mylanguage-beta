@@ -18,7 +18,7 @@
             "2": "Zberite prijatelje in začnite raziskovati! Kliknite na spodnje slike, da začnete svoje potovanje — odkrivanje ne le modrosti, ampak tudi odnosa z Bogom in duhovno skupnostjo, v katero vas vabi."
         }
     },
-    "dbs-beta": {
+    "dbs": {
         "title": "Odkrivanje duhovne skupnosti",
         "para": {
             "1": "Discovering Spiritual Community vas popelje na potovanje skozi zgodovino, kjer raziskujete, kako so se ljudje od samega začetka povezali z Bogom – skozi izzive, vprašanja in trenutke, ki so spremenili življenje. Če vas zanima vera, namen in kaj pomeni pripadati, je ta serija odličen kraj za začetek.",
@@ -26,7 +26,7 @@
             "3": "Izberite svoj najljubši jezik s klikom na zgornji globus sveta."
         }
     },
-    "life-beta": {
+    "life": {
         "title": "Življenjska vprašanja",
         "para": {
             "1": "Life Issues raziskuje praktične nauke Jezusa in njegovih prvih sledilcev – modrost, ki je stoletja spreminjala življenja. Mnogi so doživeli preobrazbo, ko so povabili Jezusa, naj jim pomaga živeti te resnice. Bi to lahko veljalo tudi za vas?",
@@ -42,7 +42,7 @@
             "2": "Ta video je na voljo v številnih jezikih. Če želite spremeniti jezik, kliknite zgornji globus."
         }
     },
-    "lead-beta": {
+    "lead": {
         "title": "Odkrivanje voditeljstva",
         "para": {
             "1": "Discovering Leadership raziskuje načela, ki jih je Jezus učil svoje voditelje – modrost, ki je že generacije oblikovala vodenje s služabniškim srcem. Mnogi so doživeli preobrazbo, ko so se zanašali na Jezusa, da jim je pomagal voditi z namenom in poštenostjo. Bi to lahko oblikovalo tudi vaše vodenje?",

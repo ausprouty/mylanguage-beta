@@ -18,7 +18,7 @@
             "2": "Adună-ți prietenii și începe să explorezi! Faceți clic pe imaginile de mai jos pentru a vă începe călătoria - descoperind nu doar înțelepciunea, ci și o relație cu Dumnezeu și comunitatea spirituală în care El vă invită."
         }
     },
-    "dbs-beta": {
+    "dbs": {
         "title": "Descoperirea comunității spirituale",
         "para": {
             "1": "Discovering Spiritual Community te poartă într-o călătorie prin istorie, explorând modul în care oamenii s-au conectat cu Dumnezeu de la bun început – prin provocări, întrebări și momente care schimbă viața. Dacă ești curios despre credință, scop și ce înseamnă apartenență, această serie este un loc grozav de început.",
@@ -26,7 +26,7 @@
             "3": "Selectați limba preferată făcând clic pe globul de mai sus."
         }
     },
-    "life-beta": {
+    "life": {
         "title": "Probleme de viață",
         "para": {
             "1": "Life Issues explorează învățăturile practice ale lui Isus și primii săi urmași – înțelepciune care a schimbat vieți de secole. Mulți au experimentat transformarea invitându-l pe Isus să-i ajute să trăiască aceste adevăruri. Ar putea fi adevărat și pentru tine?",
@@ -42,7 +42,7 @@
             "2": "Acest videoclip este disponibil în mai multe limbi. Pentru a schimba limba, faceți clic pe globul de mai sus."
         }
     },
-    "lead-beta": {
+    "lead": {
         "title": "Descoperirea Leadership-ului",
         "para": {
             "1": "Discovering Leadership explorează principiile pe care Isus le-a învățat conducătorilor săi – înțelepciunea care a modelat conducerea cu inima de slujitor de generații. Mulți au experimentat transformarea bazându-se pe Isus pentru a-i ajuta să conducă cu scop și integritate. Ți-ar putea modela și conducerea?",

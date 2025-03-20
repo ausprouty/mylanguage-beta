@@ -18,7 +18,7 @@
             "2": "Zbierz znajomych i rozpocznij odkrywanie! Kliknij poniższe obrazy, aby rozpocząć swoją podróż — odkrywając nie tylko mądrość, ale także relację z Bogiem i duchową wspólnotą, do której Cię zaprasza."
         }
     },
-    "dbs-beta": {
+    "dbs": {
         "title": "Odkrywanie wspólnoty duchowej",
         "para": {
             "1": "Discovering Spiritual Community zabierze Cię w podróż przez historię, odkrywając, jak ludzie łączyli się z Bogiem od samego początku – poprzez wyzwania, pytania i momenty zmieniające życie. Jeśli ciekawi Cię wiara, cel i znaczenie przynależności, ta seria jest doskonałym miejscem na rozpoczęcie.",
@@ -26,7 +26,7 @@
             "3": "Wybierz swój ulubiony język, klikając kulę ziemską powyżej."
         }
     },
-    "life-beta": {
+    "life": {
         "title": "Problemy życiowe",
         "para": {
             "1": "Life Issues bada praktyczne nauki Jezusa i jego pierwszych naśladowców – mądrość, która od wieków zmieniała życie. Wiele osób doświadczyło przemiany, prosząc Jezusa, aby pomógł im żyć tymi prawdami. Czy to może dotyczyć również Ciebie?",
@@ -42,7 +42,7 @@
             "2": "Ten film jest dostępny w wielu językach. Aby zmienić język, kliknij kulę ziemską powyżej."
         }
     },
-    "lead-beta": {
+    "lead": {
         "title": "Odkrywanie przywództwa",
         "para": {
             "1": "Discovering Leadership bada zasady, których Jezus nauczał swoich przywódców – mądrość, która od pokoleń kształtuje przywództwo o sercu służebnym. Wiele osób doświadczyło przemiany dzięki poleganiu na Jezusie, który pomógł im przewodzić w sposób celowy i uczciwy. Czy to może ukształtować również Twoje przywództwo?",

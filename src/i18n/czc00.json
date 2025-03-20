@@ -18,7 +18,7 @@
             "2": "Shromážděte své přátele a začněte objevovat! Klikněte na obrázky níže a začněte svou cestu – objevování nejen moudrosti, ale také vztahu s Bohem a duchovním společenstvím, do kterého vás zve."
         }
     },
-    "dbs-beta": {
+    "dbs": {
         "title": "Objevování duchovní komunity",
         "para": {
             "1": "Discovering Spiritual Community vás zavede na cestu historií a prozkoumáte, jak se lidé spojovali s Bohem od samého počátku – prostřednictvím výzev, otázek a okamžiků, které změnily život. Pokud vás zajímá víra, účel a co to znamená patřit, tato série je skvělým místem, kde začít.",
@@ -26,7 +26,7 @@
             "3": "Vyberte svůj oblíbený jazyk kliknutím na zeměkouli výše."
         }
     },
-    "life-beta": {
+    "life": {
         "title": "Životní problémy",
         "para": {
             "1": "Life Issues zkoumá praktické učení Ježíše a jeho prvních následovníků – moudrost, která změnila životy po staletí. Mnozí zažili proměnu tím, že pozvali Ježíše, aby jim pomohl tyto pravdy žít. Může to být pravda i pro vás?",
@@ -42,7 +42,7 @@
             "2": "Toto video je dostupné v mnoha jazycích. Chcete-li změnit jazyk, klikněte na zeměkouli výše."
         }
     },
-    "lead-beta": {
+    "lead": {
         "title": "Objevování vedení",
         "para": {
             "1": "Discovering Leadership zkoumá principy, které Ježíš učil své vůdce – moudrost, která formovala vůdcovství se srdcem služebníka po generace. Mnozí zažili proměnu tím, že se spoléhali na to, že jim Ježíš pomůže vést cílevědomě a bezúhonně. Mohlo by to formovat i vaše vedení?",

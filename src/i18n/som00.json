@@ -18,7 +18,7 @@
             "2": "Soo ururi asxaabtaada oo bilow sahaminta! Guji sawirada hoose si aad u bilawdo safarkaaga - inaadan ogaanin xigmadda oo keliya, laakiin xidhiidhka Ilaah iyo bulshada ruuxiga ah ee uu kugu martiqaado."
         }
     },
-    "dbs-beta": {
+    "dbs": {
         "title": "Helitaanka Bulshada Ruuxa",
         "para": {
             "1": "Helitaanka Bulshada Ruuxa waxay ku geynaysaa safar taariikhda, sahaminta sida dadku Ilaah ula xidhiidheen bilowgii hore—iyaga oo u maraya caqabado, su'aalo, iyo waqtiyo nolosha beddela. Haddii aad xiisaynayso rumaysadka, ujeedada, iyo waxa ay ka dhigan tahay ka mid noqoshada, taxanahani waa meel fiican oo laga bilaabo.",
@@ -26,7 +26,7 @@
             "3": "Dooro luqadda aad jeceshahay adiga oo gujinaya adduunka kore."
         }
     },
-    "life-beta": {
+    "life": {
         "title": "Arimaha Nolosha",
         "para": {
             "1": "Arrimaha Noloshu waxay sahamiyaan waxbarista dhabta ah ee Ciise iyo xertiisii ​​hore - xikmado beddelay nolosha qarniyo. Kuwo badan ayaa la kulmay isbeddel markay Ciise ku martiqaadeen inuu ka caawiyo inay ku noolaadaan runtan. Middaani adigana run ma noqon kartaa?",
@@ -42,7 +42,7 @@
             "2": "Muuqaalkan waxa lagu heli karaa luqado badan. Si aad u bedesho luqadda dhagsii adduunka kore."
         }
     },
-    "lead-beta": {
+    "lead": {
         "title": "Helitaanka Hogaaminta",
         "para": {
             "1": "Helitaanka Hogaamintu waxay sahamisaa mabaadi'da Ciise baray hogaamiyaashiisa - xikmada qaabaysay hogaaminta qalbi adeegaha ilaa ab ka ab. Kuwo badan ayaa la kulmay isbeddelka iyagoo ku tiirsan Ciise si uu uga caawiyo inay ku hoggaamiyaan ujeeddo iyo daacadnimo. Tani ma qaabayn kartaa sidoo kale hogaamintaada?",

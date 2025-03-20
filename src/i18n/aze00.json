@@ -18,7 +18,7 @@
             "2": "Dostlarınızı toplayın və kəşf etməyə başlayın! Səyahətinizə başlamaq üçün aşağıdakı şəkillərə klikləyin - təkcə müdrikliyi deyil, həm də Allahla və Onun sizi dəvət etdiyi ruhani cəmiyyətlə əlaqəni kəşf edin."
         }
     },
-    "dbs-beta": {
+    "dbs": {
         "title": "Ruhani Birliyi Kəşf Etmək",
         "para": {
             "1": "Mənəvi İcmanın Kəşf edilməsi sizi tarix boyu səyahətə çıxarır, insanların əvvəldən çətinliklər, suallar və həyatı dəyişən məqamlar vasitəsilə Allahla necə əlaqə saxladığını araşdırır. Əgər iman, məqsəd və aid olmağın nə demək olduğu ilə maraqlanırsınızsa, bu seriya başlamaq üçün əla yerdir.",
@@ -26,7 +26,7 @@
             "3": "Yuxarıdakı dünya qlobusuna klikləməklə sevimli dilinizi seçin."
         }
     },
-    "life-beta": {
+    "life": {
         "title": "Həyat Məsələləri",
         "para": {
             "1": "Həyat Məsələləri İsanın və onun ilk davamçılarının praktiki təlimlərini - əsrlər boyu həyatı dəyişdirən müdrikliyi araşdırır. Çoxları İsanı bu həqiqətləri həyata keçirməyə kömək etməyə dəvət edərək, dəyişikliyə məruz qaldılar. Bu sizin üçün də doğru ola bilərmi?",
@@ -42,7 +42,7 @@
             "2": "Bu video bir çox dillərdə mövcuddur. Dili dəyişmək üçün yuxarıdakı dünya qlobusuna klikləyin."
         }
     },
-    "lead-beta": {
+    "lead": {
         "title": "Liderliyin kəşfi",
         "para": {
             "1": "Liderliyi kəşf etmək İsanın öz liderlərinə öyrətdiyi prinsipləri - nəsillər üçün xidmətçi ürəkli liderliyi formalaşdıran müdrikliyi araşdırır. Çoxları məqsəd və dürüstlüklə rəhbərlik etməkdə kömək etmək üçün İsaya güvənərək dəyişikliyi yaşadılar. Bu, sizin liderliyinizi də formalaşdıra bilərmi?",

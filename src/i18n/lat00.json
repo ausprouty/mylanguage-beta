@@ -18,7 +18,7 @@
             "2": "Savāc draugus un sāc izpēti! Noklikšķiniet uz tālāk redzamajiem attēliem, lai sāktu savu ceļojumu — atklājiet ne tikai gudrību, bet arī attiecības ar Dievu un garīgo kopienu, kurā Viņš jūs aicina."
         }
     },
-    "dbs-beta": {
+    "dbs": {
         "title": "Garīgās kopienas atklāšana",
         "para": {
             "1": "Atklājot garīgo kopienu, jūs varat doties ceļojumā cauri vēsturei, izpētot, kā cilvēki jau no paša sākuma ir saistīti ar Dievu — caur izaicinājumiem, jautājumiem un dzīvi mainošiem brīžiem. Ja jūs interesē ticība, mērķis un to, ko nozīmē piederēt, šī sērija ir lieliska vieta, kur sākt.",
@@ -26,7 +26,7 @@
             "3": "Izvēlieties savu iecienītāko valodu, noklikšķinot uz pasaules zemeslodes augstāk."
         }
     },
-    "life-beta": {
+    "life": {
         "title": "Dzīves problēmas",
         "para": {
             "1": "Life Issues pēta Jēzus un viņa agrīno sekotāju praktiskās mācības — gudrību, kas gadsimtiem ilgi ir mainījusi dzīvi. Daudzi ir piedzīvojuši pārvērtības, aicinot Jēzu palīdzēt viņiem dzīvot saskaņā ar šīm patiesībām. Vai tā varētu būt taisnība arī jums?",
@@ -42,7 +42,7 @@
             "2": "Šis video ir pieejams daudzās valodās. Lai mainītu valodu, noklikšķiniet uz pasaules globusa augšpusē."
         }
     },
-    "lead-beta": {
+    "lead": {
         "title": "Līderības atklāšana",
         "para": {
             "1": "Atklājot vadību, tiek pētīti principi, ko Jēzus mācīja saviem vadītājiem — gudrība, kas ir veidojusi kalpu vadību paaudzēm. Daudzi ir piedzīvojuši pārvērtības, paļaujoties uz Jēzu, lai palīdzētu viņiem vadīt mērķtiecīgi un godīgi. Vai tas varētu veidot arī jūsu vadību?",

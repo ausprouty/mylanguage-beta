@@ -18,7 +18,7 @@
             "2": "Bokella metsoalle ea hau 'me u qale ho hlahloba! Tobetsa litšoantšong tse ka tlase ho qala leeto la hau - ho fumana eseng bohlale feela, empa kamano le Molimo le sechaba sa moea seo A u memelang ho sona."
         }
     },
-    "dbs-beta": {
+    "dbs": {
         "title": "Ho Fumana Sechaba sa Moea",
         "para": {
             "1": "Ho fumana Sechaba sa Semoea ho u nka leetong ho pholletsa le nalane, ho lekola ka moo batho ba hokahaneng le Molimo ho tloha qalong-ka liqholotso, lipotso, le linako tse fetolang bophelo. Haeba u labalabela ho tseba ka tumelo, morero, le hore na ho bolela'ng ho ba karolo, letoto lena ke sebaka se setle sa ho qala.",
@@ -26,7 +26,7 @@
             "3": "Khetha puo eo u e ratang ka ho tobetsa lefats'e ka holimo."
         }
     },
-    "life-beta": {
+    "life": {
         "title": "Mathata a Bophelo",
         "para": {
             "1": "Mathata a Bophelo a hlahloba lithuto tse sebetsang tsa Jesu le balateli ba hae ba pele—bohlale bo fetotseng bophelo ka makholo a lilemo. Ba bangata ba bone phetoho eo ka ho mema Jesu hore a ba thuse ho phela tumellanong le linnete tsena. Na see e ka ba ’nete le ho uena?",
@@ -42,7 +42,7 @@
             "2": "Video ena e fumaneha ka lipuo tse ngata. Ho fetola puo, tobetsa lefatše ka holimo."
         }
     },
-    "lead-beta": {
+    "lead": {
         "title": "Ho sibolla Boetapele",
         "para": {
             "1": "Ho sibolla Boetapele ho hlahloba melao-motheo eo Jesu a e rutileng baetapele ba hae—bohlale bo ’nileng ba bōpa boetapele ba lipelo tsa bahlanka ka meloko. Ba bangata ba bone phetoho ka ho itšetleha ka Jesu hore a ba thuse ho etella pele ka morero le ka botšepehi. Na see se ka ama boetapele ba hau le bona?",

@@ -25,7 +25,7 @@
         <tr class="full-width">
           <td
             class="side-by-side"
-            @click="handleImageClick('/series/dbs-beta')"
+            @click="handleImageClick('/series/dbs')"
             clickable
             v-ripple
           >
@@ -33,7 +33,7 @@
           </td>
           <td
             class="side-by-side"
-            @click="handleImageClick('/series/lead-beta')"
+            @click="handleImageClick('/series/lead')"
             clickable
             v-ripple
           >

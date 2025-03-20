@@ -18,7 +18,7 @@
             "2": "Saml dine venner og begynd at udforske! Klik på billederne nedenfor for at begynde din rejse – opdager ikke bare visdom, men et forhold til Gud og det åndelige fællesskab, han inviterer dig ind i."
         }
     },
-    "dbs-beta": {
+    "dbs": {
         "title": "Opdag åndeligt fællesskab",
         "para": {
             "1": "Discovering Spiritual Community tager dig med på en rejse gennem historien og udforsker, hvordan mennesker har forbundet med Gud lige fra begyndelsen – gennem udfordringer, spørgsmål og livsændrende øjeblikke. Hvis du er nysgerrig efter tro, formål og hvad det vil sige at høre til, er denne serie et godt sted at starte.",
@@ -26,7 +26,7 @@
             "3": "Vælg dit yndlingssprog ved at klikke på verdensgloben ovenfor."
         }
     },
-    "life-beta": {
+    "life": {
         "title": "Livsproblemer",
         "para": {
             "1": "Life Issues udforsker Jesu og hans tidlige tilhængeres praktiske lære - visdom, der har ændret liv i århundreder. Mange har oplevet forvandling ved at invitere Jesus til at hjælpe dem med at udleve disse sandheder. Kunne dette også være sandt for dig?",
@@ -42,7 +42,7 @@
             "2": "Denne video er tilgængelig på mange sprog. Klik på verdenskloden ovenfor for at ændre sproget."
         }
     },
-    "lead-beta": {
+    "lead": {
         "title": "At opdage lederskab",
         "para": {
             "1": "Discovering Leadership udforsker de principper, Jesus lærte sine ledere – visdom, der har formet tjenerhjertet ledelse i generationer. Mange har oplevet forvandling ved at stole på, at Jesus hjælper dem med at lede med formål og integritet. Kunne dette også forme dit lederskab?",
