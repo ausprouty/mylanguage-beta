@@ -7,24 +7,23 @@
         :content="commonContent.look_back"
         :sectionKey="sectionKeyBack"
         placeholder="Write your notes for Look Back here"
+        :timing="commonContent.timing"
       />
-
-      <DbsQuestions
+      <DbsLookup
         :content="commonContent.look_up"
         :sectionKey="sectionKeyUp"
-        placeholder="Write your notes for Look Up here"
-
-      />
-      <BibleText
         :biblePassage="lessonContent.bibleBlock.passage"
         :passageReference="passageReference"
         :translation = "lessonContent.bibleBlock.translation"
-      />
+        placeholder="Write your notes for Look Up here"
+        :timing="commonContent.timing"
 
+      />
       <DbsQuestions
         :content="commonContent.look_forward"
         :sectionKey="sectionKeyForward"
         placeholder="Write your notes for Look Forward here"
+        :timing="commonContent.timing"
       />
     </section>
   </div>
@@ -34,11 +33,11 @@
 import { ref, computed, watch, onMounted } from "vue";
 import { useLanguageStore } from "stores/LanguageStore";
 import DbsQuestions from "src/components/DbsQuestions.vue";
-import BibleText from "src/components/BibleTextDisplayed.vue";
+import DbsLookup from "src/components/DbsLookup.vue";
 
 export default {
   name: "SeriesLessonContent",
-  components: { DbsQuestions, BibleText },
+  components: { DbsQuestions, DbsLookup },
   props: {
     languageCodeHL: { type: String, required: true },
     study: { type: String, required: true },

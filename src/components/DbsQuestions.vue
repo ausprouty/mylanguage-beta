@@ -1,7 +1,8 @@
 <template>
   <section v-if="content">
-    <h2 class="ltr dbs">{{ content.title }}</h2>
-    <ol class="ltr dbs">
+    <h2 class="dbs">{{ content.title }}</h2>
+    <p class="timing">{{ timing }}</p>
+    <ol class="dbs">
       <li v-for="(item, index) in content.question" :key="'question-' + index">
         {{ item }}
       </li>
@@ -11,20 +12,18 @@
       v-model="note"
       :placeholder="placeholder"
     ></textarea>
-
   </section>
 </template>
 
 <script>
 import { ref, watch, onMounted } from "vue";
 
-
 export default {
   props: {
     content: { type: Object, required: true },
     sectionKey: { type: String, required: true },
     placeholder: { type: String, default: "Write your notes here" },
-
+    timing: { type: String, default: "" },
   },
   setup(props) {
     const note = ref("");
@@ -38,10 +37,13 @@ export default {
     };
 
     // Watch `sectionKey` and reload notes when it changes
-    watch(() => props.sectionKey, (newKey, oldKey) => {
-      console.log(`🔄 SectionKey changed from '${oldKey}' to '${newKey}'`);
-      loadNotes();
-    });
+    watch(
+      () => props.sectionKey,
+      (newKey, oldKey) => {
+        console.log(`🔄 SectionKey changed from '${oldKey}' to '${newKey}'`);
+        loadNotes();
+      }
+    );
 
     // Watch for changes in `note` and save to localStorage
     watch(note, (newNote) => {
@@ -65,4 +67,5 @@ textarea {
   height: 100px;
   margin-top: 8px;
 }
+
 </style>
