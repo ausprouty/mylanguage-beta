@@ -1,7 +1,9 @@
 <template>
-  <q-page padding>
-    <div class="study-container" v-html="studyHtml"></div
-  ></q-page>
+  <q-page padding class="study-page">
+    <div class="study-wrapper">
+      <div class="study-container" v-html="studyHtml"></div>
+    </div>
+  </q-page>
 </template>
 
 <script setup>
@@ -40,22 +42,45 @@ const studyHtml = `
 </script>
 
 <style scoped>
-.study-container {
-  max-width: 800px;
+.study-page {
+  background-color: #f0f0f0; /* Soft neutral background */
+  min-height: 100vh;
+}
+
+.study-wrapper {
+  max-width: 860px;
   margin: 0 auto;
+  padding: 32px 16px;
+}
+
+.study-container {
+  background: #fff;
   padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 6px 16px rgba(63, 88, 100, 0.15);
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
-  color: #333;
+  color: #2e2e2e;
+  line-height: 1.65;
 }
 
+/* Headings */
 .study-container h2 {
-  margin-top: 1.5rem;
-  font-size: 1.4rem;
-  color: #3c6e89;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  color: #F38B3C; /* Accent orange */
+  border-left: 6px solid #FFC700; /* Minor yellow */
+  padding-left: 12px;
 }
 
+/* Paragraphs */
 .study-container p {
-  margin-top: 0.5rem;
+  margin-top: 0.75rem;
+  font-size: 1.05rem;
 }
+
+/* Optional: Add spacing between sections */
+.study-container h2:not(:first-child) {
+  margin-top: 2.5rem;
+}
+
 </style>

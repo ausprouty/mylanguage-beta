@@ -9,7 +9,7 @@
 // https://v2.quasar.dev/quasar-cli-vite/quasar-config-js
 
 const { configure } = require("quasar/wrappers");
-const path = require('node:path')
+const path = require("node:path");
 
 //https://quasar.dev/quasar-cli-webpack/handling-process-env#adding-to-process-env
 module.exports = configure(function (ctx) {
@@ -29,7 +29,7 @@ module.exports = configure(function (ctx) {
     // app boot file (/src/boot)
     // --> boot files are part of "main.js"
     // https://v2.quasar.dev/quasar-cli/boot-files
-    boot: ["axios", 'localStorage', 'i18n'],
+    boot: ["axios", "localStorage", "i18n", "storage-check"],
 
     // https://v2.quasar.dev/quasar-cli-vite/quasar-config-js#css
     css: ["app.scss"],
@@ -57,21 +57,21 @@ module.exports = configure(function (ctx) {
         browser: ["es2019", "edge88", "firefox78", "chrome87", "safari13.1"],
         node: "node16",
       },
-      chainWebpack: chain => {
+      chainWebpack: (chain) => {
         chain.module
-          .rule('i18n-resource')
-            .test(/\.(json5?|ya?ml)$/)
-              .include.add(path.resolve(__dirname, './src/i18n'))
-              .end()
-            .type('javascript/auto')
-            .use('i18n-resource')
-              .loader('@intlify/vue-i18n-loader')
+          .rule("i18n-resource")
+          .test(/\.(json5?|ya?ml)$/)
+          .include.add(path.resolve(__dirname, "./src/i18n"))
+          .end()
+          .type("javascript/auto")
+          .use("i18n-resource")
+          .loader("@intlify/vue-i18n-loader");
         chain.module
-          .rule('i18n')
-            .resourceQuery(/blockType=i18n/)
-            .type('javascript/auto')
-            .use('i18n')
-              .loader('@intlify/vue-i18n-loader');
+          .rule("i18n")
+          .resourceQuery(/blockType=i18n/)
+          .type("javascript/auto")
+          .use("i18n")
+          .loader("@intlify/vue-i18n-loader");
       },
       extendViteConf(viteConf) {
         viteConf.define = {
@@ -94,7 +94,7 @@ module.exports = configure(function (ctx) {
       // vueDevtools,
       // vueOptionsAPI: false,
 
-       rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
+      rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
       // publicPath: '/',
       // analyze: true,
@@ -116,9 +116,9 @@ module.exports = configure(function (ctx) {
     // Full list of options: https://v2.quasar.dev/quasar-cli-vite/quasar-config-js#devServer
     devServer: {
       proxy: {
-        '/api_mylanguage': {
-          target: 'http://127.0.0.1:5559',
-          changeOrigin: true
+        "/api_mylanguage": {
+          target: "http://127.0.0.1:5559",
+          changeOrigin: true,
         },
       },
       open: true, // opens browser window automatically
@@ -186,15 +186,16 @@ module.exports = configure(function (ctx) {
       swFilename: "sw.js",
       manifestFilename: "manifest.json",
       useCredentialsForManifestTag: false,
-      manifest: {  // <-- Add this section
+      manifest: {
+        // <-- Add this section
         name: "Spiritual Community",
-        short_name: "Discover Community",  // <-- Define short_name here
+        short_name: "Discover Community", // <-- Define short_name here
         description: "Discover Spiritual Community",
         display: "standalone",
         orientation: "portrait",
         background_color: "#ffffff",
         theme_color: "#3e81efyarn",
-        start_url: "/",  // <-- Ensure correct start_url
+        start_url: "/", // <-- Ensure correct start_url
         scope: "/",
         icons: [
           {
@@ -221,11 +222,10 @@ module.exports = configure(function (ctx) {
             src: "icons/icon-512x512.png",
             sizes: "512x512",
             type: "image/png",
-          }
-        ]
-      }
+          },
+        ],
+      },
     },
-
 
     // Full list of options: https://v2.quasar.dev/quasar-cli/developing-cordova-apps/configuring-cordova
     cordova: {

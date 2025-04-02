@@ -34,7 +34,7 @@
 
 <script setup>
 import { ref, watch, onMounted } from 'vue'
-import BibleTextDisplayed from 'src/components/BibleTextDisplayed.vue'
+import BibleTextDisplayed from 'src/components/BibleTextBar.vue'
 
 const props = defineProps({
   content: { type: Object, required: true },

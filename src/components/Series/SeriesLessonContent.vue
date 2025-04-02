@@ -6,7 +6,7 @@
       <DbsQuestions
         :content="commonContent.look_back"
         :sectionKey="sectionKeyBack"
-        placeholder="Write your notes for Look Back here"
+        :placeholder="commonContent.notes.look_back"
         :timing="commonContent.timing"
       />
       <DbsLookup
@@ -15,14 +15,14 @@
         :biblePassage="lessonContent.bibleBlock.passage"
         :passageReference="passageReference"
         :translation = "lessonContent.bibleBlock.translation"
-        placeholder="Write your notes for Look Up here"
+        :placeholder="commonContent.notes.look_up"
         :timing="commonContent.timing"
 
       />
       <DbsQuestions
         :content="commonContent.look_forward"
         :sectionKey="sectionKeyForward"
-        placeholder="Write your notes for Look Forward here"
+        :placeholder="commonContent.notes.look_forward"
         :timing="commonContent.timing"
       />
     </section>
