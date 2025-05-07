@@ -39,6 +39,13 @@ export const useLanguageStore = defineStore("languageStore", {
       }
       return study;
     },
+    getJVideoSegmentId: (state) => {
+      if (state.jVideoSegments.currentId  == null || typeof state.jVideoSegments.currentId == 'undefined'){
+        console.log ('getting jvideoSegmentId from local storage')
+        state.jVideoSegments.currentId = localStorage.getItem("jVideoSegments.currentId", 1)
+      }
+      return state.jVideoSegments.currentId
+    },
     getFollowingHimSegment: (state) => {
       if (state.followingHimSegment  == null || typeof state.followingHimSegment == 'undefined'){
         state.followingHimSegment = localStorage.getItem("followingHimSegment", '1-0-0')
@@ -75,13 +82,7 @@ export const useLanguageStore = defineStore("languageStore", {
       const maxLesson = state.maxLessonNumber[study] || 0;
       return currentLesson >= maxLesson;
     },
-    getJVideoSegmentId: (state) => {
-      if (state.jVideoSegments.currentId  == null || typeof state.jVideoSegments.currentId == 'undefined'){
-        console.log ('getting jvideoSegmentId from local storage')
-        state.jVideoSegments.currentId = localStorage.getItem("jVideoSegments.currentId", 1)
-      }
-      return state.jVideoSegments.currentId
-    },
+    
 
     getLanguageCodeHLSelected: (state) => {
       if (!state.languageSelected) {
@@ -227,7 +228,6 @@ export const useLanguageStore = defineStore("languageStore", {
       localStorage.setItem('languageSelected', JSON.stringify(this.languageSelected));
     },
     updateLanguageCodeJFSelected(languageCodeJF){
-
       this.languageSelected.languageCodeJF = languageCodeJF;
       localStorage.setItem('languageSelected', JSON.stringify(this.languageSelected));
     },

@@ -4,7 +4,6 @@
     <p>{{ t(`${currentStudy}.para.1`) }}</p>
     <p>{{ t(`${currentStudy}.para.2`) }}</p>
     <p>{{ t(`${currentStudy}.para.3`) }}</p>
-    <p> <router-link to="/readfirst">Read this first (English only)</router-link></p>
 
     <div>
       <SeriesPassageSelect
@@ -43,7 +42,6 @@ import { useCommonContent } from 'src/composables/useCommonContent';
 import SeriesPassageSelect from 'src/components/Series/SeriesPassageSelect.vue';
 import SeriesSegmentNavigator from 'src/components/Series/SeriesSegmentNavigator.vue';
 import SeriesLessonContent from 'src/components/Series/SeriesLessonContent.vue';
-import { useQuasar } from 'quasar';
 
 // Access the current route
 const route = useRoute();

@@ -1,4 +1,4 @@
-const CURRENT_VERSION = '2.0.0';
+const CURRENT_VERSION = '2.1.0';
 const STORAGE_VERSION_KEY = 'app_storage_version';
 console.log('StorageService loaded');
 
